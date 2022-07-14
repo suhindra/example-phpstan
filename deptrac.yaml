@@ -1,3 +1,10 @@
 parameters:
   paths:
     - ./src/
+  layers:
+    -
+      name: Greeter
+      collectors:
+        -
+          type: className
+          value: .*Greeter.*
