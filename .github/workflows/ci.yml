@@ -13,3 +13,4 @@ jobs:
         uses: php-actions/phpstan@master
         with:
           path: src/ inc/
+          php_version: 7.3
