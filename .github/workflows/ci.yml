@@ -14,3 +14,4 @@ jobs:
         with:
           path: src/ inc/
           php_version: 7.3
+          level: 8
