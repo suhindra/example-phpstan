@@ -1,3 +1,4 @@
+<?php
 /**
  * @param $args array
  * @return int
